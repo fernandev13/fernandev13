@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Soto</h1>
 <h3 align="center">Estudiante autodidacta en programación en el área de Desarrollo Web FrontEnd</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandev13&label=Profile%20views&color=0e75b6&style=flat" alt="fernandev13" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandev13" alt="fernandev13" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/fernan_dev" target="blank"><img src="https://img.shields.io/twitter/follow/fernan_dev?logo=twitter&style=for-the-badge" alt="fernan_dev" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fernan_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fernan_dev" height="30" width="40" /></a>
